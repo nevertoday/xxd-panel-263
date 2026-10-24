@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 263｜Commemorative Seal: compresses the subject of a photo into one small commemorative stamp, cultural seal or miniature story window in vintage mid-century modern graphic style — purified simple geometric forms, flat colour shapes, silhouettes and a few engraved lines, with perforated edges, frame lines or badge outlines only where they add a collectible feel, paper texture, engraved and screen-print grain, misregistration and uneven ink, a limited warm, nostalgic palette distilled from the photo on a very light paper-like ground, extreme white space, and tiny stamp-style captions, numbers or travel notes. No 3D, gradients or realistic lighting. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-263 or asks for commemorative stamp, mid-century seal or engraved-print miniature illustration from a photo.",
+  "short_description": "纪念图章：把照片主体收成一枚小尺度的中世纪现代风纪念图章，四周是极端留白",
+  "zh-CN": {
+    "name": "纪念图章",
+    "tagline": "把照片主体收成一枚小小的纪念图章，像一件被收藏起来的文化纪念品。",
+    "look": "原图被压缩成一个小世界：一枚纪念邮票式图像、一枚文化收藏图章或一个微型叙事窗口。造型是中世纪现代风的平面设计：简洁几何形、平面色块、剪影和少量刻线，只有在增加收藏感时才加齿孔边、框线或徽章轮廓。看得见纸纹、版画刻线、旧印刷颗粒、套印误差和不太均匀的油墨，没有 3D、渐变和写实光影。颜色从照片提纯成温暖、怀旧的有限几种，底色是极浅的纸本色。图章很小，可居中、偏心、贴边或被裁切，四周是大片空白；上面有几处很小的纪念短句、邮票式标注或编号。",
+    "traits": ["纪念图章", "中世纪现代", "版画颗粒", "小世界", "极端留白", "收藏感"],
+    "good": [
+      "有文化识别度的地标或建筑：一座塔楼、一座教堂、一座古桥、一座灯塔",
+      "能象征一个地方的对象：一只白鹭、一辆缆车、一束本地花、一艘渔船",
+      "想做成纪念品、文创图章或收藏卡片的照片"
+    ],
+    "poor": [
+      "想保留完整场景和很多细节的照片，这里只剩一个小世界",
+      "需要 3D、渐变或写实光影效果的需求",
+      "商业旅游海报、廉价复古滤镜或卡通风格的需求"
+    ]
+  },
+  "en": {
+    "name": "Commemorative Seal",
+    "tagline": "Compresses your subject into one small commemorative seal, like a cultural keepsake put away.",
+    "look": "The photo becomes a small world: a commemorative stamp-like image, a cultural collector's seal or a tiny story window. The drawing follows mid-century modern graphic design: simple geometric forms, flat colour shapes, silhouettes and a few engraved lines, with perforated edges, frame lines or badge outlines added only when they make it feel more collectible. Paper texture, engraved lines, old print grain, misregistration and slightly uneven ink are visible; there is no 3D, no gradient and no realistic lighting. Colours from the photo are refined into a few warm, nostalgic ones on a very light, paper-like ground. The seal is small, centred, off-centre, against the edge or cropped, surrounded by wide empty space, with a few tiny commemorative phrases, stamp-style labels or numbers.",
+    "traits": ["Commemorative seal", "Mid-century modern", "Engraved print grain", "Small world", "Extreme white space", "Collectible feel"],
+    "good": [
+      "Landmarks or buildings with cultural identity: a tower, a church, an old bridge, a lighthouse",
+      "Objects that stand for a place: an egret, a cable car, a bunch of local flowers, a fishing boat",
+      "Photos you want as a souvenir, cultural seal design or collector's card"
+    ],
+    "poor": [
+      "Photos where you want the full scene and lots of detail; only a small world remains",
+      "Requests for 3D, gradients or realistic lighting",
+      "Commercial tourism posters, cheap retro filters or cartoon styles"
+    ]
+  },
+  "ja": {
+    "name": "記念の印章",
+    "tagline": "写真の主役を小さな記念の印章にします。大切にしまわれた文化の記念品のように。",
+    "look": "写真は小さな世界に圧縮されます：記念切手のような図像、文化的な収集用の印章、あるいは小さな物語の窓です。描き方はミッドセンチュリーモダンのグラフィックデザインで、シンプルな幾何形、平らな色面、シルエット、わずかな彫りの線でできています。目打ちの縁、枠線、バッジの輪郭は、コレクションらしさを高めるときだけ加えます。紙の質感、版画の彫り線、古い印刷の粒子、版ずれ、少しむらのあるインクが見え、3D やグラデーション、写実的な光と影はありません。写真の色は温かく懐かしい数色に精製し、ごく淡い紙のような地に置きます。印章は小さく、中央でも、ずらしても、端に寄せても、切れてもよく、まわりは広い空白で、小さな記念の言葉、切手風の表記、番号がいくつか入ります。",
+    "traits": ["記念の印章", "ミッドセンチュリーモダン", "版画の粒子", "小さな世界", "極端な余白", "コレクション感"],
+    "good": [
+      "文化的な個性のあるランドマークや建物：塔、教会、古い橋、灯台",
+      "その土地を象徴するもの：シラサギ、ロープウェイ、地元の花束、漁船",
+      "記念品、文化グッズの印章、コレクションカードにしたい写真"
+    ],
+    "poor": [
+      "場面全体や多くの細部を残したい写真（残るのは小さな世界だけです）",
+      "3D、グラデーション、写実的な光と影を求める場合",
+      "商業的な観光ポスター、安っぽいレトロフィルター、アニメ調を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "기념 인장",
+    "tagline": "사진 속 주인공을 작은 기념 인장으로 압축합니다. 소중히 보관된 문화 기념품처럼.",
+    "look": "사진은 작은 세계로 압축됩니다: 기념우표 같은 이미지, 문화 수집용 인장, 혹은 작은 이야기의 창입니다. 그림은 미드센추리 모던 그래픽 디자인을 따라 단순한 기하 도형, 납작한 색면, 실루엣, 몇 줄의 판화 선으로 이루어지고, 우표 톱니 가장자리나 테두리선, 배지 윤곽은 소장품 느낌을 더할 때만 넣습니다. 종이 결, 판화 선, 옛 인쇄 입자, 어긋난 인쇄, 살짝 고르지 않은 잉크가 보이며 3D, 그라데이션, 사실적인 빛과 그림자는 없습니다. 사진의 색은 따뜻하고 향수 어린 몇 가지로 정제해 아주 옅은 종이 같은 바탕에 놓습니다. 인장은 작고, 가운데에 두거나 비켜 두거나 가장자리에 붙이거나 잘려도 되며, 둘레는 넓은 빈 공간이고 작은 기념 문구, 우표식 표기, 번호가 몇 군데 들어갑니다.",
+    "traits": ["기념 인장", "미드센추리 모던", "판화 입자", "작은 세계", "극단적 여백", "소장품 느낌"],
+    "good": [
+      "문화적 개성이 있는 랜드마크나 건물: 탑, 성당, 오래된 다리, 등대",
+      "한 지역을 상징하는 대상: 백로, 케이블카, 그 지역 꽃다발, 고깃배",
+      "기념품, 문화 상품 인장, 소장 카드로 만들고 싶은 사진"
+    ],
+    "poor": [
+      "장면 전체와 많은 세부를 살리고 싶은 사진(작은 세계 하나만 남습니다)",
+      "3D, 그라데이션, 사실적인 빛과 그림자를 원하는 경우",
+      "상업 관광 포스터, 값싼 복고 필터, 만화풍을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "الختم التذكاري",
+    "tagline": "يضغط عنصر صورتك في ختم تذكاري صغير، كتذكار ثقافي محفوظ بعناية.",
+    "look": "تتحول الصورة إلى عالم صغير: صورة كطابع تذكاري، أو ختم ثقافي للمقتنين، أو نافذة صغيرة على حكاية. يتبع الرسم أسلوب التصميم الغرافيكي الحديث لمنتصف القرن العشرين: أشكال هندسية بسيطة ومساحات لونية مسطّحة وظلال وبضعة خطوط محفورة، ولا تُضاف الحواف المثقّبة أو خطوط الإطار أو حدود الشارات إلا حين تزيد إحساس المقتنى. يظهر ملمس الورق وخطوط الحفر وحبيبات الطباعة القديمة وانزياح الألوان وحبر غير متساوٍ قليلاً؛ ولا أبعاد ثلاثية ولا تدرجات ولا إضاءة واقعية. تُصفّى ألوان الصورة إلى ألوان قليلة دافئة تبعث الحنين على أرضية فاتحة جداً تشبه الورق. الختم صغير، في الوسط أو بعيداً عنه أو ملاصقاً للحافة أو مقتطعاً، يحيط به فراغ واسع، ويحمل بضع عبارات تذكارية صغيرة أو تسميات على طريقة الطوابع أو أرقاماً.",
+    "traits": ["ختم تذكاري", "حداثة منتصف القرن", "حبيبات الطباعة المحفورة", "عالم صغير", "فراغ أبيض شديد", "طابع المقتنيات"],
+    "good": [
+      "معالم أو مبانٍ ذات هوية ثقافية: برج، كنيسة، جسر قديم، منارة",
+      "أشياء ترمز إلى مكان: بلشون أبيض، عربة تلفريك، باقة زهور محلية، قارب صيد",
+      "صور تريدها تذكاراً أو ختماً لمنتج ثقافي أو بطاقة للمقتنين"
+    ],
+    "poor": [
+      "صور تريد الاحتفاظ بمشهدها كاملاً وبتفاصيل كثيرة؛ لا يبقى إلا عالم صغير",
+      "طلب أبعاد ثلاثية أو تدرجات أو إضاءة واقعية",
+      "ملصقات سياحية تجارية أو مرشّحات قديمة رخيصة أو أساليب كرتونية"
+    ]
+  }
+}

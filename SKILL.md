@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-263
-description: "Create XXD Panel 263 raster artwork: a faithful photograph paired with a small vintage commemorative-stamp world of flat symbols, engraved grain and extreme white space. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-263 or asks for this 纪念图章 style."
+description: "XXD Panel 263｜Commemorative Seal: compresses the subject of a photo into one small commemorative stamp, cultural seal or miniature story window in vintage mid-century modern graphic style — purified simple geometric forms, flat colour shapes, silhouettes and a few engraved lines, with perforated edges, frame lines or badge outlines only where they add a collectible feel, paper texture, engraved and screen-print grain, misregistration and uneven ink, a limited warm, nostalgic palette distilled from the photo on a very light paper-like ground, extreme white space, and tiny stamp-style captions, numbers or travel notes. No 3D, gradients or realistic lighting. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-263 or asks for commemorative stamp, mid-century seal or engraved-print miniature illustration from a photo."
 ---
 
 # XXD Panel 263
